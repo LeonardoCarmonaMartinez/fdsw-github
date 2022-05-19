@@ -5,6 +5,11 @@ body {
   color: #ffc400;
 }
 
+.my-5{
+  text-align: justify;
+  margin: 2em;
+}
+
 /* Hero Section */
 
 #Hero-Section {
